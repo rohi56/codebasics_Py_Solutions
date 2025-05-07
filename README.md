@@ -1,14 +1,42 @@
-# py
-Repository to store sample Python programs.
+# 🐍 Python Practice Repository (Fork of CodeBasics)
 
-This repository is meant for beginners to assist them in their learning of Python. The repository covers a wide range of algorithms and other programs, and would prove immensely helpful for everybody interested in Python programming.
+Welcome to **my fork** of the amazing [CodeBasics Python repository](https://github.com/codebasics/py) — a one-stop resource to kickstart and strengthen your Python programming skills! 🚀
 
-If this is your first time coding in Python, I would love to suggest you begin from the [Basics](https://github.com/codebasics/py/tree/master/Basics). They are simple to understand and hopefully will prove fun to you.
+This repository is designed especially for **beginners** and intermediate learners looking to:
 
-You can also pay a visit to my very own [Youtube channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
+- Understand core Python concepts
+- Practice with real-world programming problems
+- Explore common algorithms and coding patterns
 
-Contributions to the repository are welcome.
+## 📁 Repository Structure
 
-[![CodeBasics](https://yt3.ggpht.com/ytc/AAUvwnihwx4a5idwBTE5JFpXHb-ykyh-i1gXtFiGJYV1=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
+This fork includes all the original content from CodeBasics, with **solutions to assignments** added in the same folders. Each solution follows the naming convention:
 
-#### Happy coding!
+<original_filename>_solution.py
+
+
+This makes it easy to reference the original problem and compare it with the solution side-by-side.
+
+> ✅ All solutions are written and verified by me as part of my personal learning journey.
+
+## 🧠 Start with the Basics
+
+If you're just getting started, I highly recommend beginning with the [Basics](https://github.com/codebasics/py/tree/master/Basics) folder. These lessons are beginner-friendly, concise, and fun to experiment with!
+
+## 🎥 Learn Alongside Video Tutorials
+
+Don’t forget to check out the excellent [CodeBasics YouTube channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) for hands-on video tutorials and explanations that pair perfectly with this repo.
+
+[![CodeBasics](https://yt3.ggpht.com/ytc/AAUvwnihwx4a5idwBTE5JFpXHb-ykyh-i1gXtFiGJYV1=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
+
+## 🤝 Contributions Welcome!
+
+You're welcome to contribute solutions, improve existing code, or add explanations and comments to help others. Just fork, code, and create a pull request!
+
+---
+
+### 🚀 Let's Code & Learn Together!
+
+> “The best way to learn is by doing — and sharing.”
+
+**Happy coding! 💻✨**
